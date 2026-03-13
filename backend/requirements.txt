@@ -11,3 +11,6 @@ sqlalchemy
 
 pydantic
 pydantic-settings
+
+# Google ADK
+google-adk
