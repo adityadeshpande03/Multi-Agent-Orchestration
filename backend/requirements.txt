@@ -1,0 +1,16 @@
+# FastAPI and Uvicorn dependencies
+fastapi
+uvicorn[standard]
+
+# Python dependencies
+python-dotenv
+python-multipart
+
+# Database dependencies
+sqlalchemy
+
+pydantic
+pydantic-settings
+
+# Google ADK
+google-adk

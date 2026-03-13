@@ -22,3 +22,23 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Python virtual environment
+.venv/
+venv/
+
+# Editor directories and files
+.vscode/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+.idea/
+.vscode/
+.pytest_cache/
+.ruff_cache/
+.DS_Store
+.idea/
+
+# Environment variables
+.env
